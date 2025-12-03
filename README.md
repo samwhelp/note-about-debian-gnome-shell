@@ -27,9 +27,10 @@
 ## 微調腳本
 
 | 微調腳本 |
-| -------- |
+| ------- |
 | [Debian Gnome Shell Config](https://github.com/samwhelp/debian-gnome-shell-adjustment) |
 | [Tool Config](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part) |
+| [簡易微調](https://github.com/samwhelp/debian-gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-adjustment) |
 
 
 
@@ -94,11 +95,14 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
 | [Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-gnome-shell) |
+| [Pardus Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-pardus-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-pardus-gnome-shell) |
 | [Ubuntu Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-ubuntu-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-gnome-shell) |
 | [Fedora Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-fedora-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-fedora-gnome-shell) |
+| [Archlinux Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-archlinux-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-gnome-shell) |
 | [Manjaro Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-manjaro-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-manjaro-gnome-shell) |
+| [Garuda Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-garuda-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-garuda-gnome-shell) |
+| [Solus Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-solus-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-solus-gnome-shell) |
 
 
 
