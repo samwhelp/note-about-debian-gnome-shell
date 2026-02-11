@@ -35,6 +35,14 @@
 
 
 
+| [桌面佈局](https://github.com/samwhelp/debian-gnome-shell-adjustment/tree/main/project/gnome-shell-layout) |
+| ------- |
+| [gnome-shell-layout-wincity](https://github.com/samwhelp/debian-gnome-shell-adjustment/tree/main/project/gnome-shell-layout/gnome-shell-layout-advance-full/profile/gnome-shell-layout-wincity) |
+| [gnome-shell-layout-maccity](https://github.com/samwhelp/debian-gnome-shell-adjustment/tree/main/project/gnome-shell-layout/gnome-shell-layout-advance-full/profile/gnome-shell-layout-maccity) |
+
+
+
+
 ## 字型
 
 | 字型設定 | 微調腳本 |
