@@ -14,6 +14,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [相關資源](#相關資源)
 * [字型](#字型)
 * [輸入法](#輸入法)
 * [佈景主題](#佈景主題)
@@ -47,6 +48,27 @@
 | ------- |
 | [gnome-shell-layout-wincity](https://github.com/samwhelp/debian-gnome-shell-adjustment/tree/main/project/gnome-shell-layout/gnome-shell-layout-advance-full/profile/gnome-shell-layout-wincity) |
 | [gnome-shell-layout-maccity](https://github.com/samwhelp/debian-gnome-shell-adjustment/tree/main/project/gnome-shell-layout/gnome-shell-layout-advance-full/profile/gnome-shell-layout-maccity) |
+
+
+
+
+## 相關資源
+
+| Gnome Shell Enhance |
+| ------------------- |
+| [gnome-shell-enhance](https://github.com/samwhelp/gnome-shell-enhance) |
+
+
+| Gnome Shell Style  |
+| ------------------ |
+[make-gnome-shell-style](https://github.com/samwhelp/make-gnome-shell-style) |
+| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
+
+
+| Gnome Shell Layout |
+| ------------------ |
+| [make-gnome-shell-layout-wincity](https://github.com/samwhelp/make-gnome-shell-layout-wincity) |
+| [make-gnome-shell-layout-maccity](https://github.com/samwhelp/make-gnome-shell-layout-maccity) |
 
 
 
